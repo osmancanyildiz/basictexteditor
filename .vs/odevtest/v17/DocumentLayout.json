@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2311C9E1-5FAF-41C3-9CC8-1A871E8689F8}|odevtest\\odevtest.csproj|C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2311C9E1-5FAF-41C3-9CC8-1A871E8689F8}|odevtest\\odevtest.csproj|solutionrelative:odevtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2311C9E1-5FAF-41C3-9CC8-1A871E8689F8}|odevtest\\odevtest.csproj|c:\\users\\osman can\\desktop\\c#_projects\\1\\g231210060 osman can y\u0131ld\u0131z1\\odevtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2311C9E1-5FAF-41C3-9CC8-1A871E8689F8}|odevtest\\odevtest.csproj|solutionrelative:odevtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2311C9E1-5FAF-41C3-9CC8-1A871E8689F8}|odevtest\\odevtest.csproj|C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2311C9E1-5FAF-41C3-9CC8-1A871E8689F8}|odevtest\\odevtest.csproj|solutionrelative:odevtest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "odevtest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\Form1.Designer.cs",
+              "RelativeToolTip": "odevtest\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:12:03.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\Form1.cs",
+              "RelativeDocumentMoniker": "odevtest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\Form1.cs",
+              "RelativeToolTip": "odevtest\\Form1.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAuwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:36:54.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\Form1.cs",
+              "RelativeDocumentMoniker": "odevtest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Osman Can\\Desktop\\c#_projects\\1\\G231210060 Osman Can Y\u0131ld\u0131z1\\odevtest\\Form1.cs [Design]",
+              "RelativeToolTip": "odevtest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:29:43.498Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
